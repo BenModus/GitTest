@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AK/FZJUH8RA1K05EABPQ3LUEF.uasset",
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VA/OMSMR102BOLE306I2R4VZ6.uasset",
+				"C:/Users/ben/Documents/GitTest/GitTest/GitTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HA/7LBX72ZS3WK100JP103TAB.uasset"
 			]
 		}
 	]
